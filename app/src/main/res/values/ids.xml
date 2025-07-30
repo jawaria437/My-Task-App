@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="my_custom_id_1" type="id" />
+    <item name="my_custom_id_2" type="id" />
+    <!-- Add more items as needed -->
+</resources>
